@@ -1,0 +1,15 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git repository":"https://github.com/Silvia813/testproject.git",
+  "keywords": [
+    "https://github.com/Silvia813/testproject.git"
+  ],
+  "author": "silvia",
+  "license": "ISC"
+}
